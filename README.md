@@ -15,6 +15,11 @@ Configured DNS records and subdomains using AWS Route 53.
 
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/d857c432c99abc50325682f48216d5c421f23631/Screenshot%20(348).png)
 
+Kops and Kubernetes Setup:
+Launched an Ubuntu EC2 instance as the base machine for Kops setup.
+Installed necessary tools including Kops, kubectl, SSH keys, and AWS CLI.
+Configured AWS CLI with IAM user credentials for administrative access.
+
 
 
 
