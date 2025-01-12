@@ -23,6 +23,11 @@ Configured AWS CLI with IAM user credentials for administrative access.
 
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/c3d94045cd13b2ba4e693f4b738094059f32db4b/Screenshot%20(346).png)
 
+Infrastructure Setup:
+Created an S3 bucket and set up a Route 53 hosted zone for the subdomain.
+Configured security groups and launched an EC2 instance to run Kops commands.
+Installed Kops and kubectl, and generated SSH keys for secure communication.
+
 
 
 
