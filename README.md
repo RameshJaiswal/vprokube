@@ -1,6 +1,6 @@
 Project Overview-
-The project involved deploying a multi-tier containerized web application on a Kubernetes cluster. The goal was to ensure high availability,
-scalability, fault tolerance, and seamless deployment across different environments, leveraging Kubernetes' powerful orchestration capabilities.
+The project involved deploying a multi-tier containerized web application on a Kubernetes cluster.<br>
+The goal was to ensure high availability,scalability, fault tolerance, and seamless deployment across different environments, leveraging Kubernetes' powerful orchestration capabilities.
 
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/e4bb58f7b477720ae0c3233e339ebc8b8847747d/Screenshot%20(371).png)
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/426746cf13e7365de0f5505a396c5fb6c9c21492/Screenshot%20(374).png)
@@ -22,22 +22,22 @@ Configured DNS records and subdomains using AWS Route 53.
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/d857c432c99abc50325682f48216d5c421f23631/Screenshot%20(348).png)
 
 Kops and Kubernetes Setup:
-Launched an Ubuntu EC2 instance as the base machine for Kops setup.
-Installed necessary tools including Kops, kubectl, SSH keys, and AWS CLI.
+Launched an Ubuntu EC2 instance as the base machine for Kops setup.<br>
+Installed necessary tools including Kops, kubectl, SSH keys, and AWS CLI.<br>
 Configured AWS CLI with IAM user credentials for administrative access.
 
 
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/c3d94045cd13b2ba4e693f4b738094059f32db4b/Screenshot%20(346).png)
 
 Infrastructure Setup:
-Created an S3 bucket and set up a Route 53 hosted zone for the subdomain.
-Configured security groups and launched an EC2 instance to run Kops commands.
+Created an S3 bucket and set up a Route 53 hosted zone for the subdomain.<br>
+Configured security groups and launched an EC2 instance to run Kops commands.<br>
 Installed Kops and kubectl, and generated SSH keys for secure communication.
 
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/d381d0a050a9cb0decdd0a80636fad80b8c16fef/Screenshot%20(351).png)
 
 Cluster Deployment:
-Deployed the Kubernetes cluster using Kops commands.
+Deployed the Kubernetes cluster using Kops commands.<br>
 Ensured high availability and fault tolerance through auto-scaling and self-healing mechanisms.
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/fc886f8944731d4f8491b2d7545c0ba4c499aa9f/Screenshot%20(352).png)
 
@@ -45,14 +45,16 @@ Cloning Source code from GitHub Repository:
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/c0975fdf32e0c8a9cd2a4da5272d7945a3cb6d66/Screenshot%20(354).png)
 
 Tools and Technologies Used:
-Tomcat: Used for running the web application.
-MySQL: Managed with PersistentVolumeClaims to maintain data persistence.
-Memcached: Deployed for caching to improve performance.
-RabbitMQ: Used for message queuing and service communication.
-Kubernetes: Orchestrates containerized applications for efficient deployment and resource management.
-Ingress Controller (NGINX): Handles external access to the application, with AWS Application Load Balancer for load balancing.
-Kops: Helps in provisioning and managing the Kubernetes cluster.
+Tomcat: Used for running the web application.<br>
+MySQL: Managed with PersistentVolumeClaims to maintain data persistence.<br>
+Memcached: Deployed for caching to improve performance.<br>
+RabbitMQ: Used for message queuing and service communication.<br>
+Kubernetes: Orchestrates containerized applications for efficient deployment and resource management.<br>
+Ingress Controller (NGINX): Handles external access to the application, with AWS Application Load Balancer for load balancing.<br>
+Kops: Helps in provisioning and managing the Kubernetes cluster.<br>
 kubectl: Command-line tool for interacting with the Kubernetes cluster.
+
+![image alt](https://github.com/RameshJaiswal/vprokube/blob/c0975fdf32e0c8a9cd2a4da5272d7945a3cb6d66/Screenshot%20(354).png)
 
 
 
