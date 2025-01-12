@@ -3,6 +3,11 @@ The project involved deploying a multi-tier containerized web application on a K
 scalability, fault tolerance, and seamless deployment across different environments, leveraging Kubernetes' powerful orchestration capabilities.
 
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/e4bb58f7b477720ae0c3233e339ebc8b8847747d/Screenshot%20(371).png)
+![image alt](https://github.com/RameshJaiswal/vprokube/blob/426746cf13e7365de0f5505a396c5fb6c9c21492/Screenshot%20(374).png)
+![image alt](https://github.com/RameshJaiswal/vprokube/blob/426746cf13e7365de0f5505a396c5fb6c9c21492/Screenshot%20(376).png)
+![image alt](https://github.com/RameshJaiswal/vprokube/blob/426746cf13e7365de0f5505a396c5fb6c9c21492/Screenshot%20(378).png)
+![image alt](https://github.com/RameshJaiswal/vprokube/blob/426746cf13e7365de0f5505a396c5fb6c9c21492/Screenshot%20(383).png)
+![image alt](https://github.com/RameshJaiswal/vprokube/blob/426746cf13e7365de0f5505a396c5fb6c9c21492/Screenshot%20(386).png)
 
 
 Key Steps and Objectives:
