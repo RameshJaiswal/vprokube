@@ -1,4 +1,4 @@
-Project Overview-
+Project Overview-<br>
 The project involved deploying a multi-tier containerized web application on a Kubernetes cluster.<br>
 The goal was to ensure high availability,scalability, fault tolerance, and seamless deployment across different environments, leveraging Kubernetes' powerful orchestration capabilities.<br>
 
@@ -12,8 +12,8 @@ The goal was to ensure high availability,scalability, fault tolerance, and seaml
 
 
 Key Steps and Objectives:
-
-Domain and DNS Configuration:
+<br>
+Domain and DNS Configuration:<br>
 Registered domain with GoDaddy (e.g., groophy.in).
 
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/2f9bb5a5fc3a1a9d288bd846b203e897dfc1308a/Screenshot%20(369).png)
@@ -22,7 +22,7 @@ Configured DNS records and subdomains using AWS Route 53.<br>
 
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/d857c432c99abc50325682f48216d5c421f23631/Screenshot%20(348).png)
 
-Kops and Kubernetes Setup:
+Kops and Kubernetes Setup:<br>
 Launched an Ubuntu EC2 instance as the base machine for Kops setup.<br>
 Installed necessary tools including Kops, kubectl, SSH keys, and AWS CLI.<br>
 Configured AWS CLI with IAM user credentials for administrative access.<br>
@@ -63,6 +63,13 @@ kubectl: Command-line tool for interacting with the Kubernetes cluster.<br>
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/926509e35773a701a2675f06a2018b90b55d47e2/Screenshot%20(403).png)
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/926509e35773a701a2675f06a2018b90b55d47e2/Screenshot%20(404).png)
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/926509e35773a701a2675f06a2018b90b55d47e2/Screenshot%20(407).png)
+<br>
+Conclusion:
+<br>
+This project involved deploying a multi-tier containerized web application on a Kubernetes cluster using Kops. It focused on ensuring high availability, scalability, and fault tolerance. Through this project, I gained hands-on experience with Kubernetes, Tomcat, MySQL, RabbitMQ, and other tools to deliver a reliable, scalable solution.
+#Kubernetes #Docker #Containerization #Kops #WebApplication #CloudComputing #Scalability #HighAvailability #DevOps #MySQL #RabbitMQ #Tomcat #CICD #InfrastructureAsCode #Microservices
+
+
 
 
 
