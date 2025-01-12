@@ -44,6 +44,18 @@ Ensured high availability and fault tolerance through auto-scaling and self-heal
 Cloning Source code from GitHub Repository:
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/c0975fdf32e0c8a9cd2a4da5272d7945a3cb6d66/Screenshot%20(354).png)
 
+Tools and Technologies Used:
+Tomcat: Used for running the web application.
+MySQL: Managed with PersistentVolumeClaims to maintain data persistence.
+Memcached: Deployed for caching to improve performance.
+RabbitMQ: Used for message queuing and service communication.
+Kubernetes: Orchestrates containerized applications for efficient deployment and resource management.
+Ingress Controller (NGINX): Handles external access to the application, with AWS Application Load Balancer for load balancing.
+Kops: Helps in provisioning and managing the Kubernetes cluster.
+kubectl: Command-line tool for interacting with the Kubernetes cluster.
+
+
+
 
 
 
