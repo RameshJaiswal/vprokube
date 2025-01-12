@@ -28,6 +28,8 @@ Created an S3 bucket and set up a Route 53 hosted zone for the subdomain.
 Configured security groups and launched an EC2 instance to run Kops commands.
 Installed Kops and kubectl, and generated SSH keys for secure communication.
 
+![image alt](https://github.com/RameshJaiswal/vprokube/blob/d381d0a050a9cb0decdd0a80636fad80b8c16fef/Screenshot%20(351).png)
+
 
 
 
