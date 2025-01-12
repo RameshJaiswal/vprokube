@@ -21,6 +21,10 @@ Installed necessary tools including Kops, kubectl, SSH keys, and AWS CLI.
 Configured AWS CLI with IAM user credentials for administrative access.
 
 
+![image alt](https://github.com/RameshJaiswal/vprokube/blob/c3d94045cd13b2ba4e693f4b738094059f32db4b/Screenshot%20(346).png)
+
+
+
 
 
 
