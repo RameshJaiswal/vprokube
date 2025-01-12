@@ -13,6 +13,8 @@ Registered domain with GoDaddy (e.g., groophy.in).
 
 Configured DNS records and subdomains using AWS Route 53.
 
+![image alt](https://github.com/RameshJaiswal/vprokube/blob/d857c432c99abc50325682f48216d5c421f23631/Screenshot%20(348).png)
+
 
 
 
