@@ -66,7 +66,7 @@ kubectl: Command-line tool for interacting with the Kubernetes cluster.<br>
 <br>
 Conclusion:
 <br>
-This project involved deploying a multi-tier containerized web application on a Kubernetes cluster using Kops. It focused on ensuring high availability, scalability, and fault tolerance. Through this project, I gained hands-on experience with Kubernetes, Tomcat, MySQL, RabbitMQ, and other tools to deliver a reliable, scalable solution.
+This project involved deploying a multi-tier containerized web application on a Kubernetes cluster using Kops. It focused on ensuring high availability, scalability, and fault tolerance. Through this project, I gained hands-on experience with Kubernetes, Tomcat, MySQL, RabbitMQ, and other tools to deliver a reliable, scalable solution.<br>
 #Kubernetes #Docker #Containerization #Kops #WebApplication #CloudComputing #Scalability #HighAvailability #DevOps #MySQL #RabbitMQ #Tomcat #CICD #InfrastructureAsCode #Microservices
 
 
