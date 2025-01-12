@@ -30,6 +30,11 @@ Installed Kops and kubectl, and generated SSH keys for secure communication.
 
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/d381d0a050a9cb0decdd0a80636fad80b8c16fef/Screenshot%20(351).png)
 
+Cluster Deployment:
+Deployed the Kubernetes cluster using Kops commands.
+Ensured high availability and fault tolerance through auto-scaling and self-healing mechanisms.
+
+
 
 
 
