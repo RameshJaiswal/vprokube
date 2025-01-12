@@ -35,7 +35,8 @@ Deployed the Kubernetes cluster using Kops commands.
 Ensured high availability and fault tolerance through auto-scaling and self-healing mechanisms.
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/fc886f8944731d4f8491b2d7545c0ba4c499aa9f/Screenshot%20(352).png)
 
-Cloning a GitHub Repository:
+Cloning Source code from GitHub Repository:
+![image alt](https://github.com/RameshJaiswal/vprokube/blob/c0975fdf32e0c8a9cd2a4da5272d7945a3cb6d66/Screenshot%20(354).png)
 
 
 
