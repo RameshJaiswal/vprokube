@@ -8,9 +8,12 @@ Key Steps and Objectives:
 
 Domain and DNS Configuration:
 Registered domain with GoDaddy (e.g., groophy.in).
-Configured DNS records and subdomains using AWS Route 53.
 
 ![image alt](https://github.com/RameshJaiswal/vprokube/blob/2f9bb5a5fc3a1a9d288bd846b203e897dfc1308a/Screenshot%20(369).png)
+
+Configured DNS records and subdomains using AWS Route 53.
+
+
 
 
 
